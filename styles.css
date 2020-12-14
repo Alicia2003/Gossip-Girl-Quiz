@@ -1,0 +1,37 @@
+h1{
+   text-align:center;
+   color:purple;
+   border: 3px double ;
+   background-color:lightblue;
+}
+
+body{
+   background-color:pink;
+}
+
+.head{
+   width:650px;
+   border: 4px dotted purple ;
+}
+
+.header {
+    text-align: center;
+}
+
+
+.message{
+     color:purple;
+     width:180px;    
+}
+
+
+img{
+    width:180px;
+    color:purple;
+}
+
+p{
+    color:purple;
+    font-family: 'Sora', sans-serif;
+}
+
